@@ -6,7 +6,7 @@ This guide outlines how to build the Simio SPFX model using the provided scripts
 
 Before you begin, ensure you have the following installed:
 
-- Simio SPFX (Simulation Software)
+- Simio Simulation Software (Version 15 and above)
 
 ## Building the Model
 
