@@ -1,4 +1,4 @@
-# Winter Simulation Conference 2024 - Sample Models
+# Winter Simulation Conference 2024 - Assignment Models
 
 This repository contains sample simulation models used in support of the paper presented at the Winter Simulation Conference 2024.
 
@@ -9,12 +9,13 @@ The models included in this repository serve as examples to illustrate concepts 
 ## Files
 
 - `Model Assignement 1.doe`
+- `Model ISBL Assignement 2`.spfx
 - `Sample of Assembly Times.xlsx`
 - `Wait.csv`
 
 ## Usage
 
-To run this model, you will need Rockwell Arena (version 14+).
+To run this model, you will need Rockwell Arena (version 14+) and Simio (version 15+).
 
 ## Paper Citation
 
